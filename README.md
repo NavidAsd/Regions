@@ -1,0 +1,1 @@
+A list of almost all regions of the world along with their country code, regular expression, number of digits, telephone prefix, regular expression, official language, currency, and ISO code in JSON format.
